@@ -1,2 +1,2 @@
 # Basic-Chatbot
-Using nltk and newspaper3k
+Using newspaper3k
